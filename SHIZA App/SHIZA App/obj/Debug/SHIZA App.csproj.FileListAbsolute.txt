@@ -1,0 +1,11 @@
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\bin\Debug\SHIZA App.exe.config
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\bin\Debug\SHIZA App.exe
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\bin\Debug\SHIZA App.pdb
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.csprojResolveAssemblyReference.cache
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA_App.SHIZA_App_mainWindow.resources
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA_App.Properties.Resources.resources
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.csproj.GenerateResource.Cache
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.csproj.CoreCompileInputs.cache
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.exe
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.pdb
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA_App.Form2.resources
