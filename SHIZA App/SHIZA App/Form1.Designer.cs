@@ -43,6 +43,7 @@
             this.Name = "SHIZA_App_mainWindow";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SHIZA App";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.SHIZA_App_mainWindow_FormClosed);
             this.ResumeLayout(false);
 
         }

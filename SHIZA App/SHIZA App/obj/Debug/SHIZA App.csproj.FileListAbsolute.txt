@@ -8,4 +8,9 @@ D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.csproj.Generate
 D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.csproj.CoreCompileInputs.cache
 D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.exe
 D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.pdb
-D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA_App.Form2.resources
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\bin\Debug\Interop.WMPLib.dll
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\bin\Debug\AxInterop.WMPLib.dll
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\Interop.WMPLib.dll
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\AxInterop.WMPLib.dll
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA App.csproj.ResolveComReference.cache
+D:\Anime\SHIZA - Project\SHIZA App\SHIZA App\obj\Debug\SHIZA_App.SHIZA_App_LoadWindow.resources

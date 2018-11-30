@@ -16,5 +16,10 @@ namespace SHIZA_App
         {
             InitializeComponent();
         }
+
+        private void SHIZA_App_mainWindow_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

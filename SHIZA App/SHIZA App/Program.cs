@@ -16,7 +16,8 @@ namespace SHIZA_App
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SHIZA_App_mainWindow());
+            Form SHIZA_App_load = new SHIZA_App_LoadWindow();
+            Application.Run(SHIZA_App_load);
         }
     }
 }
